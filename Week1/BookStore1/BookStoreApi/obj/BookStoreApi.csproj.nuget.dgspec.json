@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sena/AKBANKFullStack/BookStore/BookStoreApi/BookStoreApi.csproj": {}
+    "/Users/sena/AKBANKFullStack/FatmaSenaEkiz_Homeworks/Week1/BookStore1/BookStoreApi/BookStoreApi.csproj": {}
   },
   "projects": {
-    "/Users/sena/AKBANKFullStack/BookStore/BookStoreApi/BookStoreApi.csproj": {
+    "/Users/sena/AKBANKFullStack/FatmaSenaEkiz_Homeworks/Week1/BookStore1/BookStoreApi/BookStoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sena/AKBANKFullStack/BookStore/BookStoreApi/BookStoreApi.csproj",
+        "projectUniqueName": "/Users/sena/AKBANKFullStack/FatmaSenaEkiz_Homeworks/Week1/BookStore1/BookStoreApi/BookStoreApi.csproj",
         "projectName": "BookStoreApi",
-        "projectPath": "/Users/sena/AKBANKFullStack/BookStore/BookStoreApi/BookStoreApi.csproj",
+        "projectPath": "/Users/sena/AKBANKFullStack/FatmaSenaEkiz_Homeworks/Week1/BookStore1/BookStoreApi/BookStoreApi.csproj",
         "packagesPath": "/Users/sena/.nuget/packages/",
-        "outputPath": "/Users/sena/AKBANKFullStack/BookStore/BookStoreApi/obj/",
+        "outputPath": "/Users/sena/AKBANKFullStack/FatmaSenaEkiz_Homeworks/Week1/BookStore1/BookStoreApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sena/.nuget/NuGet/NuGet.Config"

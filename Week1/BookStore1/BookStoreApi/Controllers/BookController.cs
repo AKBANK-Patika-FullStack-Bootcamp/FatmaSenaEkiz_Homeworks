@@ -50,6 +50,17 @@ namespace WebApiBookStore.AddControllers{
                     return book;
                 } 
 
+                //Listeye yeni kitap ekleyen post metodu
+                [HttpPost]
+                public IActionResult AddBook([FromBodyAttribute] Book newBook){
+                    var book = BookList.SingleOrDefault(x=> x.Title == newBook.Title);
+                    if(book != null){
+                        return BadRequest();
+                    }
+                    BookList.Add(newBook);
+                    return Ok();
+                }
+
                 // Listedeki kitaplarla eslesen idli kitaba ait bilgileri guncelleyen put metodu 
                 [HttpPut("{id}")]
                 public IActionResult UpdateBook(int id,[FromBody] Book updatedBook){
@@ -76,16 +87,7 @@ namespace WebApiBookStore.AddControllers{
                 }
 
 
-                //Listeye yeni kitap ekleyen post metodu
-                [HttpPost]
-                public IActionResult AddBook([FromBodyAttribute] Book newBook){
-                    var book = BookList.SingleOrDefault(x=> x.Title == newBook.Title);
-                    if(book != null){
-                        return BadRequest();
-                    }
-                    BookList.Add(newBook);
-                    return Ok();
-                }
+                
 
 
             }
