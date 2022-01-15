@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0H3EB4JC+IjXicE6usZj81AXEeckv2aQfhTY4dn2IaaxFo/+z2AZNqxrsK0vk57wVByNmVUKdhAjjAaaw4Jj1g==",
+  "success": true,
+  "projectFilePath": "/Users/sena/AKBANKFullStack/FatmaSenaEkiz_Homeworks/Week3/BookStoreApi/BookStoreApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/sena/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/sena/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sena/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/sena/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/sena/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/sena/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
