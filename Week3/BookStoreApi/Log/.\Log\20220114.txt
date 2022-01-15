@@ -1,7 +1,0 @@
-1.	GetById operation: The book with 2 is fetched successfully!	Time: 02:56:23
-2.	Success on updating: The book with 2 ID is updated successfully.	Status Code: 200	Time: 02:56:50
-3.	Get operation: Book list is fetched successfully!	Time: 02:56:58
-4.	Success on deleting: The book with 1 ID is deleted successfully.	Status Code: 200	Time: 02:57:20
-5.	Get operation: Book list is fetched successfully!	Time: 02:57:25
-6.	Success on adding: New book with 1 ID is added successfully.	Status Code: 200	Time: 02:57:56
-7.	Get operation: Book list is fetched successfully!	Time: 02:58:00

@@ -22,7 +22,7 @@ namespace BookStoreApi.AddControllers{
                     new Book{
                         Id = 2,
                         Title = "Grapes of Wrath",
-                        GenreId = 2,// Drama
+                        GenreId = 2,// Drama Novel
                         PageCount = 230,
                         PublishDate = new DateTime(1967,09,03)
                     },
