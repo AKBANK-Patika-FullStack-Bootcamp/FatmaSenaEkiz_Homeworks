@@ -1,0 +1,49 @@
+1.	Get operation: Book list is fetched successfully!	Time: 03:12:49
+2.	Error while adding: The book with 8 ID could not added.	Status Code: 400	Time: 03:46:59
+3.	Get operation: Book list is fetched successfully!	Time: 03:47:23
+4.	Get operation: Book list is fetched successfully!	Time: 03:49:07
+5.	Error while adding: The book with 8 ID could not added.	Status Code: 400	Time: 03:49:13
+6.	Get operation: Book list is fetched successfully!	Time: 03:49:26
+7.	Error while adding: The book with 8 ID could not added.	Status Code: 400	Time: 03:49:56
+8.	GetById operation: The book with 7 id is fetched successfully!	Time: 03:50:11
+9.	Success on updating: The book with 5 ID is updated successfully.	Status Code: 200	Time: 03:51:05
+10.	Get operation: Book list is fetched successfully!	Time: 03:51:19
+11.	Get operation: Book list is fetched successfully!	Time: 04:02:13
+12.	Error while adding: The book with 5 ID could not added.	Status Code: 400	Time: 04:03:59
+13.	Get operation: Book list is fetched successfully!	Time: 04:04:08
+14.	Success on adding: New book with 8 ID is added successfully.	Status Code: 200	Time: 04:07:34
+15.	Get operation: Book list is fetched successfully!	Time: 04:07:40
+16.	Get operation: Book list is fetched successfully!	Time: 04:09:44
+17.	GetById operation: The book with 8 id is fetched successfully!	Time: 04:10:12
+18.	Success on updating: The book with 8 ID is updated successfully.	Status Code: 200	Time: 04:10:39
+19.	Get operation: Book list is fetched successfully!	Time: 04:10:49
+20.	Error while adding: The book with 5 ID could not added.	Status Code: 400	Time: 04:13:04
+21.	Get operation: Book list is fetched successfully!	Time: 04:13:13
+22.	Success on adding: New book with 10 ID is added successfully.	Status Code: 200	Time: 04:13:47
+23.	Get operation: Book list is fetched successfully!	Time: 04:13:52
+24.	GetById operation: The book with 10 id is fetched successfully!	Time: 04:14:34
+25.	Success on deleting: The book with 10 ID is deleted successfully.	Status Code: 200	Time: 04:14:51
+26.	Get operation: Book list is fetched successfully!	Time: 04:14:58
+27.	Success on adding: New book with 11 ID is added successfully.	Status Code: 200	Time: 04:22:59
+28.	Get operation: Book list is fetched successfully!	Time: 04:23:03
+29.	Success on updating: The book with 11 ID is updated successfully.	Status Code: 200	Time: 04:23:55
+30.	Get operation: Book list is fetched successfully!	Time: 04:24:01
+31.	Success on adding: New book with 13 ID is added successfully.	Status Code: 200	Time: 04:24:20
+32.	Get operation: Book list is fetched successfully!	Time: 04:24:27
+33.	GetById operation: The book with 13 id is fetched successfully!	Time: 04:24:39
+34.	Success on updating: The book with 13 ID is updated successfully.	Status Code: 200	Time: 04:24:58
+35.	Get operation: Book list is fetched successfully!	Time: 04:25:03
+36.	Get operation: Book list is fetched successfully!	Time: 04:26:41
+37.	Error while adding: The book with 0 ID could not added.	Status Code: 400	Time: 04:27:02
+38.	Get operation: Book list is fetched successfully!	Time: 04:27:20
+39.	Error while adding: The book with 0 ID could not added.	Status Code: 400	Time: 04:27:47
+40.	Error while adding: The book with 0 ID could not added.	Status Code: 400	Time: 04:28:24
+41.	Error while adding: The book with 16 ID could not added.	Status Code: 400	Time: 04:28:33
+42.	Get operation: Book list is fetched successfully!	Time: 04:31:50
+43.	Error while adding: The book with 0 ID could not added.	Status Code: 400	Time: 04:32:23
+44.	Get operation: Book list is fetched successfully!	Time: 04:32:42
+45.	Get operation: Book list is fetched successfully!	Time: 04:34:27
+46.	Error while adding: The book with 0 ID could not added.	Status Code: 400	Time: 04:34:49
+47.	Get operation: Book list is fetched successfully!	Time: 04:34:56
+48.	Get operation: Book list is fetched successfully!	Time: 04:38:05
+49.	Get operation: Book list is fetched successfully!	Time: 04:38:18

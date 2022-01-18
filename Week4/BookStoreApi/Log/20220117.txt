@@ -1,0 +1,27 @@
+1.	Get operation: Book list is fetched successfully!	Time: 18:31:00
+2.	GetById operation: The book with 3 id is fetched successfully!	Time: 18:31:15
+3.	Success on adding: New book with 1008 ID is added successfully.	Status Code: 200	Time: 18:31:48
+4.	Get operation: Book list is fetched successfully!	Time: 18:31:56
+5.	Success on updating: The book with 1008 ID is updated successfully.	Status Code: 200	Time: 20:25:47
+6.	Get operation: Book list is fetched successfully!	Time: 20:25:57
+7.	Success on adding: New book with 1010 ID is added successfully.	Status Code: 200	Time: 20:26:46
+8.	Get operation: Book list is fetched successfully!	Time: 20:26:56
+9.	Success on updating: The book with 1010 ID is updated successfully.	Status Code: 200	Time: 20:27:20
+10.	Get operation: Book list is fetched successfully!	Time: 20:27:25
+11.	Success on adding: New book with 1012 ID is added successfully.	Status Code: 200	Time: 20:27:37
+12.	GetById operation: The book with 1012 id is fetched successfully!	Time: 20:27:55
+13.	Success on updating: The book with 1012 ID is updated successfully.	Status Code: 200	Time: 20:28:40
+14.	Get operation: Book list is fetched successfully!	Time: 20:28:45
+15.	Success on adding: New book with 1013 ID is added successfully.	Status Code: 200	Time: 20:28:53
+16.	Get operation: Book list is fetched successfully!	Time: 20:28:55
+17.	Success on updating: The book with 1013 ID is updated successfully.	Status Code: 200	Time: 20:29:56
+18.	Get operation: Book list is fetched successfully!	Time: 20:30:16
+19.	Success on deleting: The book with 1014 ID is deleted successfully.	Status Code: 200	Time: 20:30:39
+1.	Get operation: Book list is fetched successfully!	Time: 20:48:13
+2.	Success on adding: New book with 1015 ID is added successfully.	Status Code: 200	Time: 20:48:48
+3.	Get operation: Book list is fetched successfully!	Time: 20:48:53
+4.	GetById operation: The book with 3 id is fetched successfully!	Time: 20:49:10
+5.	Success on updating: The book with 1015 ID is updated successfully.	Status Code: 200	Time: 20:50:04
+6.	Success on deleting: The book with 1016 ID is deleted successfully.	Status Code: 200	Time: 20:50:49
+7.	Get operation: Book list is fetched successfully!	Time: 20:54:49
+8.	Get operation: Book list is fetched successfully!	Time: 00:47:29
