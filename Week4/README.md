@@ -1,4 +1,5 @@
 # Connecting Web Api Project with Database
+
 -----
 >This week, old Web Api which was using static data transformed into a dynamic one. By connecting SQL Server on  Azure Data Studio, the CRUD operations are handled using the database.
 ---
