@@ -12,7 +12,7 @@ namespace EFLibCore
         protected readonly IConfiguration configuration;
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.UseSqlServer("Server = localhost,1433\\Catalog=BookStoreDB; Database = BookStoreDB; User=sa; Password=1qaz2wsxSena.; TrustServerCertificate=true");
+            options.UseSqlServer("Server = localhost,1433\\Catalog=BookStoreDB; Database = BookStoreDB; User=sa; Password=<yourpassword>; TrustServerCertificate=true");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
